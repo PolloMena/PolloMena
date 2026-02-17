@@ -12,6 +12,9 @@
 
 📋 Metodologías ágiles: Experiencia trabajando con Scrum.
 
+✅ Coladorador en proyecto: Orozco_Vaquero - Sistema de Inventarios
+✅ Link de contribuciones: https://github.com/FiRS1247/Orozco_Vaquero.git
+
 🚀 Enfocado en el desarrollo de soluciones eficientes, escalables y orientadas a resolver problemas reales.
 
 📚 Apasionado por la tecnología y el aprendizaje continuo.
